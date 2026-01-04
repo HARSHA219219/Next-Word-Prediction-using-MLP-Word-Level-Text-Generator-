@@ -70,3 +70,37 @@ pip install -r requirements.txt
 Launch Streamlit app
 ```bash
 streamlit run app.py
+```
+
+---
+
+## Results and Observation 
+
+The detailed results and observations are documented in the project report located in the ```Next-Word Prediction using MLP (Word-Level Text Generator)/Next-Word Prediction using MLP (Word-Level Text Generator).pdf``` directory.
+
+## Streamlit Application
+
+- Provides an interactive interface for experimenting with the trained models.
+- Supports control over:
+  - context length
+  - embedding dimension
+  - activation function
+  - model selection
+  - temperature-based sampling
+- Allows users to observe how different configuration choices affect generated text.
+- The Streamlit interface and source code are implemented in app.py and are located in the root directory of the project.
+- Screenshots of the interface are included below for reference.
+
+![image](https://github.com/HARSHA219219/Next-Word-Prediction-using-MLP-Word-Level-Text-Generator-/blob/main/Images%20of%20App%20Created/Screenshot%206.png)
+
+## 👤 Author
+
+**Vadithya Harsha Vardhan Nayak**\
+Developer & Machine Learning Enthusiast
+
+🔗 LinkedIn:[Vadithya Harsha Vardhan Nayak](linkedin.com/in/vadithya-harsha-vardhan-nayak-a37324372) \
+linkedin.com/in/vadithya-harsha-vardhan-nayak-a37324372
+
+📌 If you found this project useful or have suggestions, feel free to connect with me on LinkedIn!
+
+---
